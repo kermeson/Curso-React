@@ -1,4 +1,6 @@
 
 exercicios_webpack/node_modules/
 exercicios_react/node_modules/
+todo-app/backend/node_modules/
+todo-app/frontend/node_modules/
 *.log
